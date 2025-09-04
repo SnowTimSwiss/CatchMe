@@ -1,0 +1,11 @@
+{
+  "name": "realtime-chase-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'No real build, using index.html and main.js'"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "socket.io-client": "^4.9.1"
+  }
+}
